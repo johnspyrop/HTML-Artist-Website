@@ -1,0 +1,104 @@
+.black-font
+{
+    color: #000;
+}
+
+.white-font
+{
+    color: white;
+}
+
+.terra
+{
+    background-image: url(../Images/goj-ter.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.link
+{
+    background-image: url(../Images/goj-link.jfif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.mars
+{
+    background-image: url(../Images/goj-ms.jfif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.way
+{
+    background-image: url(../Images/gij-way.jfif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.savage
+{
+    background-image: url(../Images/goj-lef.jfif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.magma
+{
+    background-image: url(../Images/goj-magma.jfif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.fort
+{
+    background-image: url(../Images/goj-fort.jfif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.tour
+{
+    background-image: url(../Images/tour.jfif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.video-container 
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    
+  }
+
+.video-container video 
+{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.center-card 
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:200px;
+}    
+
+.contact
+{
+    background-image: url(../Images/goj-con.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
